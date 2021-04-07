@@ -5,7 +5,7 @@ data.forEach(function (v) {
 
 //short form for anonymous function
 data.forEach(v=>console.log(v));
-
+data.forEach((v)=>console.log(v));
 //shor for syntax
 // anonymous function short form : ()=>{}
 //() is optional if function having single parameter
