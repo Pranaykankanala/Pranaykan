@@ -21,4 +21,6 @@ tool.start()
 tool.stop()
 
 //Javascript object notation : JSON
+//key value combination
+//value can be a number, string, boolean, array, object
 
